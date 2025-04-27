@@ -56,13 +56,16 @@ This system enables task assignment, new task creation, status updates, and real
 1. **Login** with Admin or Employee email/password.
 2. If **Admin**:
    - You will be redirected to the **Admin Dashboard**.
-   - Assign tasks to employees by selecting their name and filling task details.
+   - Assign tasks to employees by selecting their name and filling in the task details.
 3. If **Employee**:
    - You will be redirected to the **Employee Dashboard**.
-   - See your assigned tasks under the **New** tab.
-   - **Accept**, **Complete**, or **Fail** your tasks.
-   
-4. All changes are saved automatically using **LocalStorage**.
+   - View your assigned tasks under the **New** tab.
+   - **Accept**, **Complete**, or **Fail** your tasks based on progress.
+4. **Logout**:
+   - Click on the **Logout** button to securely sign out.
+   - After logout, you will be automatically redirected back to the **Login Dashboard**.
+5. **Data Persistence**:
+   - All task updates and status changes are automatically saved using **LocalStorage**, ensuring no data loss on page reload.
 
 ---
 ## 🖥️ Live Demo
