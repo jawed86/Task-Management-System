@@ -67,7 +67,7 @@ This system allows task assignment, new task creation, task tracking, and task s
 ---
 ## 🖥️ Live Demo
 
-🚀 **Live Project Link**: [Click Here to Visit](https://task-management-system-seven-gamma.vercel.app/)
+🚀 **Live Project Link**:(https://task-management-system-seven-gamma.vercel.app/
 
 ---
 
