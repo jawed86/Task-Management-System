@@ -1,7 +1,7 @@
 # Task Management System 🚀
 
-A **responsive React.js task management application** built using **Bootstrap** and **CSS**, designed for both Admins and Employees.  
-This system allows task assignment, new task creation, task tracking, and task status updates — all within a clean and mobile-friendly UI.
+A responsive and dynamic React.js task management application built with Bootstrap and Custom CSS, designed for both Admins and Employees.
+This system enables task assignment, new task creation, status updates, and real-time tracking — all handled through efficient state management and LocalStorage persistence, delivering a fully responsive and functionally rich frontend experience.
 
 ---
 
