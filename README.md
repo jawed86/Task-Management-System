@@ -68,15 +68,8 @@ This system allows task assignment, new task creation, task tracking, and task s
 
 ## 🖥️ Live Demo
 
-🚀 **Live Project Link**: [Click Here to Visit](https://your-vercel-link.vercel.app)
+🚀 **Live Project Link**: [Click Here to Visit](task-management-system-jet-five.vercel.app)
 
-> *(Replace this with your actual deployed Vercel URL.)*
-
----
-
-## 📦 Folder Structure
-
-*(Optional: add folder structure if you want.)*
 
 ---
 
